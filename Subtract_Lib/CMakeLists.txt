@@ -1,0 +1,1 @@
+add_library(subtract_lib subtracter.cpp)

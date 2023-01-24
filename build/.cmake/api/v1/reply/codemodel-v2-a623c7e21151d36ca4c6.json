@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Subtract_Lib",
+					"jsonFile" : "directory-Subtract_Lib-Debug-62221ec7d01cb7087fa5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Subtract_Lib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "CMakeTest",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeTest-Debug-6a9c8bb69571a54f9c36.json",
+					"name" : "CMakeTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "subtract_lib::@8d12605cbb2e3cb451a6",
+					"jsonFile" : "target-subtract_lib-Debug-d76505f605f00ba38991.json",
+					"name" : "subtract_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/1_Learning/C_C++/CMAKE/Sample/build",
+		"source" : "D:/1_Learning/C_C++/CMAKE/Sample"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

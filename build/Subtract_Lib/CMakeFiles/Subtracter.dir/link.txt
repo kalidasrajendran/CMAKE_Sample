@@ -1,0 +1,3 @@
+C:\softwares\cmake\bin\cmake.exe -E rm -f CMakeFiles\Subtracter.dir/objects.a
+C:\softwares\msys64\mingw64\bin\ar.exe qc CMakeFiles\Subtracter.dir/objects.a @CMakeFiles\Subtracter.dir\objects1
+C:\softwares\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Subtracter.dir/objects.a -Wl,--no-whole-archive -o Subtracter.exe -Wl,--out-implib,libSubtracter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Subtracter.dir\linkLibs.rsp

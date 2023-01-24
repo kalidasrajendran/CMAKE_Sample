@@ -1,0 +1,3 @@
+C:\softwares\cmake\bin\cmake.exe -E rm -f CMakeFiles\Kalidas.dir/objects.a
+C:\softwares\msys64\mingw64\bin\ar.exe qc CMakeFiles\Kalidas.dir/objects.a @CMakeFiles\Kalidas.dir\objects1
+C:\softwares\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Kalidas.dir/objects.a -Wl,--no-whole-archive -o Kalidas.exe -Wl,--out-implib,libKalidas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Kalidas.dir\linkLibs.rsp

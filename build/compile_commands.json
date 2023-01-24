@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/1_Learning/C_C++/CMAKE/Sample/build",
+  "command": "C:\\softwares\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/CMakeTest.dir/includes_CXX.rsp -g -o CMakeFiles\\CMakeTest.dir\\main.cpp.obj -c D:\\1_Learning\\C_C++\\CMAKE\\Sample\\main.cpp",
+  "file": "D:/1_Learning/C_C++/CMAKE/Sample/main.cpp"
+},
+{
+  "directory": "D:/1_Learning/C_C++/CMAKE/Sample/build",
+  "command": "C:\\softwares\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/CMakeTest.dir/includes_CXX.rsp -g -o CMakeFiles\\CMakeTest.dir\\adder.cpp.obj -c D:\\1_Learning\\C_C++\\CMAKE\\Sample\\adder.cpp",
+  "file": "D:/1_Learning/C_C++/CMAKE/Sample/adder.cpp"
+},
+{
+  "directory": "D:/1_Learning/C_C++/CMAKE/Sample/build/Subtract_Lib",
+  "command": "C:\\softwares\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\subtract_lib.dir\\subtracter.cpp.obj -c D:\\1_Learning\\C_C++\\CMAKE\\Sample\\Subtract_Lib\\subtracter.cpp",
+  "file": "D:/1_Learning/C_C++/CMAKE/Sample/Subtract_Lib/subtracter.cpp"
+}
+]

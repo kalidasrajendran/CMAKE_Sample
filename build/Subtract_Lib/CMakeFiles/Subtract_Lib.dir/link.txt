@@ -1,0 +1,2 @@
+C:\softwares\msys64\mingw64\bin\ar.exe qc libsubtract_lib.a CMakeFiles/subtract_lib.dir/subtracter.cpp.obj
+C:\softwares\msys64\mingw64\bin\ranlib.exe libsubtract_lib.a
