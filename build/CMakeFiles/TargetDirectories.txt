@@ -1,6 +1,6 @@
-D:/1_Learning/C_C++/CMAKE/Sample/build/CMakeFiles/CMakeTest.dir
-D:/1_Learning/C_C++/CMAKE/Sample/build/CMakeFiles/edit_cache.dir
-D:/1_Learning/C_C++/CMAKE/Sample/build/CMakeFiles/rebuild_cache.dir
-D:/1_Learning/C_C++/CMAKE/Sample/build/Subtract_Lib/CMakeFiles/subtract_lib.dir
-D:/1_Learning/C_C++/CMAKE/Sample/build/Subtract_Lib/CMakeFiles/edit_cache.dir
-D:/1_Learning/C_C++/CMAKE/Sample/build/Subtract_Lib/CMakeFiles/rebuild_cache.dir
+D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/build/CMakeFiles/CMakeTest.dir
+D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/build/CMakeFiles/edit_cache.dir
+D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/build/CMakeFiles/rebuild_cache.dir
+D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/build/Subtract_Lib/CMakeFiles/subtract_lib.dir
+D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/build/Subtract_Lib/CMakeFiles/edit_cache.dir
+D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/build/Subtract_Lib/CMakeFiles/rebuild_cache.dir

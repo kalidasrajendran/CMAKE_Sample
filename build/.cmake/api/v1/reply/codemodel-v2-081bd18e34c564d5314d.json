@@ -60,7 +60,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "CMakeTest::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CMakeTest-Debug-6a9c8bb69571a54f9c36.json",
+					"jsonFile" : "target-CMakeTest-Debug-bf9d34cd18e9e4052400.json",
 					"name" : "CMakeTest",
 					"projectIndex" : 0
 				},
@@ -77,12 +77,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/1_Learning/C_C++/CMAKE/Sample/build",
-		"source" : "D:/1_Learning/C_C++/CMAKE/Sample"
+		"build" : "D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/build",
+		"source" : "D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }

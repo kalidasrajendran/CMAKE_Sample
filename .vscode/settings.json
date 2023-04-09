@@ -1,9 +1,6 @@
 {
     "cmake.mingwSearchDirs": [
-        "C:\\softwares\\MinGw\\bin"
+        "C:\\softwares\\msys64\\mingw64\\bin"
     ],
-    "cmake.generator": "MinGW Makefiles",
-    "files.associations": {
-        "iostream": "cpp"
-    }
+    "cmake.generator": "MinGW Makefiles"
 }

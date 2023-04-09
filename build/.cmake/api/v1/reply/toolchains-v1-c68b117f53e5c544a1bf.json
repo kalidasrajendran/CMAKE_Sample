@@ -10,14 +10,13 @@
 				{
 					"includeDirectories" : 
 					[
-						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/10.3.0/include",
+						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include",
 						"C:/softwares/msys64/mingw64/include",
-						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed",
-						"C:/softwares/msys64/mingw64/x86_64-w64-mingw32/include"
+						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"
 					],
 					"linkDirectories" : 
 					[
-						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/10.3.0",
+						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0",
 						"C:/softwares/msys64/mingw64/lib/gcc",
 						"C:/softwares/msys64/mingw64/x86_64-w64-mingw32/lib",
 						"C:/softwares/msys64/mingw64/lib"
@@ -43,7 +42,7 @@
 					]
 				},
 				"path" : "C:/softwares/msys64/mingw64/bin/gcc.exe",
-				"version" : "10.3.0"
+				"version" : "12.2.0"
 			},
 			"language" : "C",
 			"sourceFileExtensions" : 
@@ -60,17 +59,16 @@
 				{
 					"includeDirectories" : 
 					[
-						"C:/softwares/msys64/mingw64/include/c++/10.3.0",
-						"C:/softwares/msys64/mingw64/include/c++/10.3.0/x86_64-w64-mingw32",
-						"C:/softwares/msys64/mingw64/include/c++/10.3.0/backward",
-						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/10.3.0/include",
+						"C:/softwares/msys64/mingw64/include/c++/12.2.0",
+						"C:/softwares/msys64/mingw64/include/c++/12.2.0/x86_64-w64-mingw32",
+						"C:/softwares/msys64/mingw64/include/c++/12.2.0/backward",
+						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include",
 						"C:/softwares/msys64/mingw64/include",
-						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed",
-						"C:/softwares/msys64/mingw64/x86_64-w64-mingw32/include"
+						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0/include-fixed"
 					],
 					"linkDirectories" : 
 					[
-						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/10.3.0",
+						"C:/softwares/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.2.0",
 						"C:/softwares/msys64/mingw64/lib/gcc",
 						"C:/softwares/msys64/mingw64/x86_64-w64-mingw32/lib",
 						"C:/softwares/msys64/mingw64/lib"
@@ -99,7 +97,7 @@
 					]
 				},
 				"path" : "C:/softwares/msys64/mingw64/bin/g++.exe",
-				"version" : "10.3.0"
+				"version" : "12.2.0"
 			},
 			"language" : "CXX",
 			"sourceFileExtensions" : 

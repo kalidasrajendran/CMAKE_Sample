@@ -8,7 +8,7 @@ Add setting.json file with following contents:
 
 {
     "cmake.mingwSearchDirs": [
-        "C:\\softwares\\MinGw\\bin"
+        "C:\\softwares\\msys64\\mingw64\\bin"
     ],
     "cmake.generator": "MinGW Makefiles"
 }
@@ -34,6 +34,10 @@ Tutorial:
 CMake Tutorial EP 1 | Understanding The Basics
 https://www.youtube.com/watch?v=nlKcXPUJGwA
 https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4&index=1&t=0s
+
+To install make (mingw32-make.exe)
+pacman -S mingw-w64-x86_64-make
+
 
 CMake Tutorial EP 2 | Libraries and Subdirectories
 https://www.youtube.com/watch?v=kEGQKzhciKc

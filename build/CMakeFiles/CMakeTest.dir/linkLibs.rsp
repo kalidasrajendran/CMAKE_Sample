@@ -1,1 +1,1 @@
-  -LD:/1_Learning/C_C++/CMAKE/Sample/Subtract_Lib  Subtract_Lib/libsubtract_lib.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+  -LD:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/Subtract_Lib  Subtract_Lib/libsubtract_lib.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

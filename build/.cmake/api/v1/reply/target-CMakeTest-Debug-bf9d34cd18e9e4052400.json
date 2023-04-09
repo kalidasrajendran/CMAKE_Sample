@@ -66,7 +66,7 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "D:/1_Learning/C_C++/CMAKE/Sample/Subtract_Lib"
+					"path" : "D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/Subtract_Lib"
 				}
 			],
 			"language" : "CXX",
@@ -99,7 +99,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-LD:\\1_Learning\\C_C++\\CMAKE\\Sample\\Subtract_Lib",
+				"fragment" : "-LD:\\01_learnings\\01_Repos\\CMAKE\\CMAKE_Sample\\Subtract_Lib",
 				"role" : "libraryPath"
 			},
 			{

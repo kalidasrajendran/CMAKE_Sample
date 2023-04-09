@@ -1,8 +1,8 @@
-# Install script for directory: D:/1_Learning/C_C++/CMAKE/Sample/Subtract_Lib
+# Install script for directory: D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/Subtract_Lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Sample_CMake")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/CMakeTest")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

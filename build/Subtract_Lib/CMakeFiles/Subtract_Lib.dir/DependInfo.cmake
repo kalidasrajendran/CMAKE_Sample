@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/1_Learning/C_C++/CMAKE/Sample/Subtract_Lib/subtracter.cpp" "Subtract_Lib/CMakeFiles/Subtract_Lib.dir/subtracter.cpp.obj" "gcc" "Subtract_Lib/CMakeFiles/Subtract_Lib.dir/subtracter.cpp.obj.d"
+  "D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/Subtract_Lib/subtracter.cpp" "Subtract_Lib/CMakeFiles/Subtract_Lib.dir/subtracter.cpp.obj" "gcc" "Subtract_Lib/CMakeFiles/Subtract_Lib.dir/subtracter.cpp.obj.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

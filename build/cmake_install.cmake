@@ -1,8 +1,8 @@
-# Install script for directory: D:/1_Learning/C_C++/CMAKE/Sample
+# Install script for directory: D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Sample_CMake")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/CMakeTest")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/1_Learning/C_C++/CMAKE/Sample/build/Subtract_Lib/cmake_install.cmake")
+  include("D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/build/Subtract_Lib/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/1_Learning/C_C++/CMAKE/Sample/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/01_learnings/01_Repos/CMAKE/CMAKE_Sample/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
